@@ -20,6 +20,8 @@ body {
   width: 111rem;
   height: 44.6rem;
   display: flex;
+  border-radius: 8px;
+  overflow: hidden;
 }
 
 .text-content {
